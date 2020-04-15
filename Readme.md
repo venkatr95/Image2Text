@@ -24,4 +24,4 @@ $ python app.py
 Demo of running app
 
 
-![Interface](https://github.com/venkatr95/Image2Text/blob/master/image_scan.png)
+![Interface](https://github.com/venkatr95/Image2Text/blob/master/image_scan.PNG)
